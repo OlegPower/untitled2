@@ -7,5 +7,7 @@ public class Main {
         System.out.println("pow3r");
         System.out.println("pow3r");
         System.out.println("pow3r");
+        System.out.println("pow3r");
+        System.out.println("pow3r");
     }
 }
